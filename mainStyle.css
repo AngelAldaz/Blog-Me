@@ -20,6 +20,22 @@ body {
   filter: blur(2px);
 }
 
+.logo:link,
+.logo:visited,
+.logo:active,
+.logo:hover {
+  color: #270096;
+  text-decoration: none;
+}
+
+.menu-option:link,
+.menu-option:visited,
+.menu-option:active,
+.menu-option:hover {
+  color: #740000;
+  text-decoration: none;
+}
+
 .menu-option {
   text-decoration: none;
   color: #740000;
@@ -44,7 +60,7 @@ body {
 }
 
 .card-image {
-  margin: 10px;
+  margin: 30px;
 }
 
 .card-image figure img {
