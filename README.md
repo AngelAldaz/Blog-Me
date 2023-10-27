@@ -21,5 +21,13 @@ This project, created by **Ángel Aldaz**, is a dynamic exploration of a wide ra
 Run:
 
 ```bash
+cd ./yourDirectory
+```
+
+```bash
+npm install
+```
+
+```bash
 npm run dev
 ```
