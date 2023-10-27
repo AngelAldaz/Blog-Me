@@ -18,8 +18,8 @@ This project, created by **Ángel Aldaz**, is a dynamic exploration of a wide ra
 
 ## Installation
 
-Provide clear instructions on how to install and configure your project. For example:
+Run:
 
 ```bash
-npm install
+npm run dev
 ```
